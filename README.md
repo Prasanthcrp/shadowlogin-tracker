@@ -71,7 +71,6 @@ Make sure Python 3 is installed. No internet or third-party libraries are requir
 
 **Prasanth K**  
 Cybersecurity Enthusiast | Python Learner  
-Built for learning and showcasing beginner-level detection logic.
 
 ---
 
