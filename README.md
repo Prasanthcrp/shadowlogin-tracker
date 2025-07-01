@@ -17,10 +17,10 @@ The tool simulates login records (username, IP, timestamp) and checks for abnorm
 
 ##  Features
 
-✅ Detects suspicious login sessions  
-✅ Mock IP-to-country mapping  
-✅ Built entirely with standard Python (no libraries needed)  
-✅ Beginner-friendly code  
+Detects suspicious login sessions  
+Mock IP-to-country mapping  
+Built entirely with standard Python (no libraries needed)  
+Beginner-friendly code  
 
 ---
 
