@@ -17,3 +17,33 @@
 
 ```bash
 python shadowlogin_tracker.py
+
+
+## Technologies Used
+Python 3
+
+datetime module
+
+Dictionary-based location logic
+
+What I Learned
+Basics of anomaly detection in login behavior
+
+Writing clean Python logic to simulate cyber threats
+
+Simple techniques used in SIEM/SOC environments
+
+Future Ideas
+Real IP location lookup (using ipinfo.io or GeoIP)
+
+Email alert system
+
+Web-based dashboard with Flask
+
+Author
+Prasanth K
+Cybersecurity Enthusiast | Python Learner
+Built for learning and showcasing beginner-level detection logic.
+
+License
+Free to use for learning, academic, or personal cybersecurity projects.
